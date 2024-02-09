@@ -8,7 +8,7 @@ CarHub is an online platform designed to streamline the process of renting and p
 
 ## Technologies Used
 
-- JavaScript
+- TypeScript
 - Next.js
 - Tailwind CSS
 
