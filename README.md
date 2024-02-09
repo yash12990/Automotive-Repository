@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+CarHub - Car Rental and Purchasing Website
+Welcome to CarHub, your go-to destination for renting and purchasing vehicles online. Our platform is designed to simplify the process of finding the perfect vehicle for your needs, whether it's a short-term rental or your next car purchase.
 
-## Getting Started
+Overview
+CarHub is an online platform designed to streamline the process of renting and purchasing vehicles. Whether you're in need of a short-term rental for a weekend getaway or looking to buy your dream car, our website offers a seamless experience for users to browse and book vehicles from a wide selection.
 
-First, run the development server:
+Technologies Used
+JavaScript
+Next.js
+Tailwind CSS
+Getting Started
+To run the project locally, follow these steps:
 
-```bash
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/your-username/carhub.git
+Navigate to the project directory:
+bash
+Copy code
+cd carhub
+Install dependencies:
+Copy code
+npm install
+Start the development server:
+arduino
+Copy code
 npm run dev
-# or
+or
+Copy code
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Features
+User-Friendly Interface: Intuitive and easy-to-use interface for browsing and booking vehicles.
+Wide Selection: Extensive collection of vehicles available for rent and purchase.
+Search and Filter: Efficient search and filter options to find the perfect vehicle based on your preferences.
+Responsive Design: Fully responsive design to ensure a seamless experience across all devices.
+Secure Transactions: Integrated payment gateway for secure transactions and hassle-free payments.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://github.com/yash12990/Automotive-Repository/assets/115996776/6e63916f-3790-420b-9802-399b49639ee8)
+![image](https://github.com/yash12990/Automotive-Repository/assets/115996776/620ef952-378a-43d9-953a-d4cea6eff28d)
+![image](https://github.com/yash12990/Automotive-Repository/assets/115996776/b2528087-e5ab-4694-b296-2efdd1804469)
+![image](https://github.com/yash12990/Automotive-Repository/assets/115996776/d5dd9261-cfaa-48bc-9ba7-eef6d8b1b484)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
