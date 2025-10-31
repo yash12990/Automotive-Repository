@@ -18,7 +18,7 @@ const SearchButton = ({ otherClasses }: { otherClasses: string }) => (
   </button>
 );
 
-const SearchBar = () => {
+export default function SearchBar() {
   const [manufacturer, setManuFacturer] = useState("");
   const [model, setModel] = useState("");
 
@@ -90,6 +90,4 @@ const SearchBar = () => {
       <SearchButton otherClasses="max-sm:hidden" />
     </form>
   );
-};
-
-export default SearchBar;
+}
